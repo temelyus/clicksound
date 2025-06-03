@@ -25,7 +25,7 @@ I chose C for this project because, after extensive testing with other languages
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/temelyus/clicksound.git
+   git clone https://github.com/the-abra/clicksound.git
    cd clicksound
    ```
 
